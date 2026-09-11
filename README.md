@@ -1,1 +1,5 @@
-<div align="center">\n  <a href="https://github.com/Alttrest/NexusAI-Agent">\n    <img src="readme.svg" alt="NexusAI-Agent" width="100%"/>\n  </a>\n</div>\n
+<p align="center">
+  <a href="https://github.com/Alttrest/NexusAI-Agent">
+    <img src="readme.svg" width="100%" alt="NexusAI-Agent - Interactive Architecture &amp; Visual Identity" />
+  </a>
+</p>
